@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "158465371725",
+    "firebase_url": "https://cuappfinal.firebaseio.com",
+    "project_id": "cuappfinal",
+    "storage_bucket": "cuappfinal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:158465371725:android:2ceea8c34b094a375cf604",
+        "android_client_info": {
+          "package_name": "com.cuApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "158465371725-evlbh5luo04bto8cbrehmsef3rrjkjvr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cuApp",
+            "certificate_hash": "32c028f9b0f5ac12e833d4d038f1ce9c4afac5c9"
+          }
+        },
+        {
+          "client_id": "158465371725-8cvu9deegf88ou9vlqqk21g904nd4dac.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfjFOKuJc2fu86mT5KBZxGHzAB79GjhpA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "158465371725-8cvu9deegf88ou9vlqqk21g904nd4dac.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

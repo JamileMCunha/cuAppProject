@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">College Union</string>
+
+    <string name="network_failure">Service currently unavailable, try again later!</string>
+    <string name="auth_failure">User or password is invalid!</string>
+    <string name="send_email_success">An email was sent with the information!</string>
+    <string name="hint_enter_a_message">Enter a message</string>
+    <string name="name">Name</string>
+    <string name="college">College</string>
+    <string name="course">Course</string>
+    <string name="email">Email</string>
+    <string name="about_you">About you</string>
+    <string name="interest_subjects">Interest Subjects</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="comments">comments</string>
+    <string name="logout">Logout</string>
+    <string name="password">Password</string>
+    <string name="log_in">Log In</string>
+    <string name="forgot_password">Forgot Password? Recover Here</string>
+    <string name="not_registered">Not registered? Register Here</string>
+</resources>

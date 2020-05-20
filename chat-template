@@ -1,0 +1,35 @@
+{
+	"users": {
+		"user_1": {
+			"name": "user 1",
+			"image": "user1.png"
+		},
+		"user_2": { ... }
+	},
+	"chats": {
+		"user_1": {
+			"user_2.uid": {
+				"photo": "user_2.image",
+				"name": "user_2.name",
+				"lastMessage": "message_1"
+			}
+		},
+		"user_2": {
+			"user_1.uid": {
+				"photo": "user_1.image",
+				"name": "user_1.name",
+				"lastMessage": "message_1"
+			}
+		}
+	},
+	"messages": {
+		"chat_1": {
+			"message_1": {
+				"user": "user_1",
+				"text": "bla bla bla",
+				"timestamp": 123456
+			}
+		}
+	}
+
+}
